@@ -47,8 +47,10 @@ Here are some of the projects I've been working on:
 
 ### 📊 GitHub Stats
 
-![Kenson-f's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenson-f&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenson-f&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenson-f&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenson-f&layout=compact&theme=radical&hide=jupyter%20notebook" height="150" alt="languages graph" />
+</div>
 
 ---
 
