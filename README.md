@@ -45,11 +45,12 @@ Here are some of the projects I've been working on:
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenson-f&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenson-f&layout=compact&theme=radical&hide=jupyter%20notebook" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenson-f&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kenson-f&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
